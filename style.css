@@ -45,6 +45,7 @@ img {
 .dots {
 	position: absolute;
 	bottom: 2rem;
+	text-align: center;
 }
 
 /* Next & previous buttons */
